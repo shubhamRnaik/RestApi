@@ -1,0 +1,1 @@
+export{default as productSchema} from '../validators/productValidators.js'
